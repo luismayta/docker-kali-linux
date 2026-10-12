@@ -3,7 +3,7 @@ module github.com/hadenlabs/docker-kali-linux
 go 1.16
 
 require (
-	github.com/asaskevich/govalidator v0.0.0-20210307081110-f21760c49a8d
+	github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2
 	github.com/go-playground/validator/v10 v10.6.0
 	github.com/gruntwork-io/terratest v0.34.2
 	github.com/kr/text v0.2.0 // indirect
